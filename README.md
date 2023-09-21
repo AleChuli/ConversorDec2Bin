@@ -4,7 +4,6 @@
 Lista:
 - Huevo
 - Harina
-- Pan
-<br>
+- Pan <br>
 ![](https://i.redd.it/2v1ten5r20b61.jpg)
 
