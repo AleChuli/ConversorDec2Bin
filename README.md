@@ -1,4 +1,4 @@
 # ConversorDec2Bin
 ## Subtítulo
-**Negrita** *Cursiva* ~~Subrayado~~ 
+**Negrita** *Cursiva* ~~Rayado~~ __Subrayado__
 
