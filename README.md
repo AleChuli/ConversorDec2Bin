@@ -2,7 +2,7 @@
 ## Subtítulo
 **Negrita** *Cursiva* ~~Rayado~~ 
 Lista:
--Huevo
--Harina
--Pan
+- Huevo
+- Harina
+- Pan
 
