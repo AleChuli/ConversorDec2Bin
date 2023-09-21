@@ -1,4 +1,8 @@
 # ConversorDec2Bin
 ## Subtítulo
-**Negrita** *Cursiva* ~~Rayado~~ <u>Subrayado</u>
+**Negrita** *Cursiva* ~~Rayado~~ 
+Lista:
+-Huevo
+-Harina
+-Pan
 
